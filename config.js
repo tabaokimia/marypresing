@@ -5,8 +5,8 @@
 //     (Supabase > Project Settings > API)
 //  Laisser vide = mode « un seul appareil » (rien n'est partagé en ligne)
 // ============================================================
-const SUPABASE_URL = "";   // ← collez ici l'adresse de VOTRE NOUVEAU projet Supabase (https://xxxx.supabase.co)
-const SUPABASE_KEY = "";   // ← collez ici la clé « publishable » (sb_publishable_...) — JAMAIS la clé « secret »
+const SUPABASE_URL = "https://owhbfttesoqgplmfwdtv.supabase.co";   // ← collez ici l'adresse de VOTRE NOUVEAU projet Supabase (https://xxxx.supabase.co)
+const SUPABASE_KEY = "sb_publishable_2EMfiaTiGoWQPkAurP1YbQ_zzK1Dvxl";   // ← collez ici la clé « publishable » (sb_publishable_...) — JAMAIS la clé « secret »
 const ADMIN_EMAIL  = "maryservice242@gmail.com";   // e-mail de l'administrateur (celui de la caisse) : doit être identique dans supabase_setup.sql
 
 // ---- Petit client Supabase (ne pas modifier) ----
